@@ -1,0 +1,19 @@
+@import "../../../styles/_variables.scss";
+
+.container {
+  background-color: $background;
+  padding: 10px;
+  margin: 20px 20px 10px 0px;
+  border: 0;
+  border-radius: 7px;
+
+  &:hover {
+    background-color: white;
+    cursor: pointer;
+  }
+}
+
+.imgSize {
+  width: 25px;
+  height: 25px;
+}

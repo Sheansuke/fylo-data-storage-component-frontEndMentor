@@ -1,0 +1,26 @@
+@import "../../styles/variables.scss";
+
+.container {
+  background-color: $background2;
+  width: 90%;
+  max-width: 400px;
+  height: 200px;
+  margin: 10px;
+  border-radius: 10px;
+  border-top-right-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container_elements {
+  margin-left: -100px;
+}
+.img_component {
+  width: 140px;
+}
+
+.icon_container {
+  width: 150px;
+  display: flex;
+}
