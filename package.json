@@ -6,6 +6,7 @@
   "main": "lib/index.ts",
   "types": "lib",
   "license": "MIT",
+  "homepage": "https://sheansuke.github.io/fylo-data-storage-component-frontEndMentor/.",
   "repository": {
     "type": "git",
     "user": "https://github.com/Sheansuke",
