@@ -1,16 +1,16 @@
 /* eslint-disable global-require */
 import React from "react";
 
-// useWindowWidth
+// USEWINDOWSWIDTH
 import { useWindowWidth } from "@react-hook/window-size";
 
-// styles
+// STYLE
 import style from "./Main.module.scss";
 
-// images
+// IMAGES
 import bgDesktop from "../../images/bg-desktop.png";
 
-// component
+// COMPONENTS
 import FileControl from "../FileControl/FileControl";
 import DownloadControl from "../DownloadControl/DownloadControl";
 
@@ -18,14 +18,16 @@ const Main: React.FC = () => {
   const width = useWindowWidth();
 
   return (
+    // presents image only desktop view
     <main className={style.body}>
       {width > 768 && (
         <img src={bgDesktop} alt="bg-desktop" className={style.bgDesktop} />
       )}
 
+      {/* component */}
       <div className={style.container}>
         <FileControl />
-        <DownloadControl usageGB={815} maxGb={1000} />
+        <DownloadControl />
       </div>
     </main>
   );

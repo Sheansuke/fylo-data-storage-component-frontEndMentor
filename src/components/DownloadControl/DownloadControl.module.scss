@@ -1,4 +1,4 @@
-@import "../../styles/_variables.scss";
+@import "../../styles/_variables";
 $barRadius: 0.5rem;
 
 .container {
@@ -76,6 +76,7 @@ $barRadius: 0.5rem;
   align-items: center;
   border-radius: $barRadius;
   padding: 0.1rem;
+
 
   span {
     position: absolute;

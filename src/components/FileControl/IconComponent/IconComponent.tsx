@@ -6,6 +6,7 @@ import style from "./IconComponent.module.scss";
 interface Props {
   icon: string;
 }
+
 const App: React.FC<Props> = ({ icon }) => {
   return (
     <button type="button" className={style.container}>

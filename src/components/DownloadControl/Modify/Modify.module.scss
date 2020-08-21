@@ -1,0 +1,67 @@
+@import "../../../styles/_variables";
+
+.container_modify {
+  display: flex;
+  justify-content: flex-end;
+
+  button {
+    background-color: $background;
+    border: 0px transparent;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: -1rem;
+    margin-right: 1rem;
+    color: $primaryFont;
+    font-weight: bold;
+    &:hover {
+      background-color: $background3;
+      color: $background;
+      cursor: pointer;
+    }
+  }
+
+  .container_form {
+    position: absolute;
+    top: 10rem;
+    background-color: $background;
+    width: 200px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+    border-radius: 1rem;
+    label {
+      color: $primaryFont;
+      margin-top: 0.5rem;
+      input {
+        border: 0px transparent;
+        margin-right: 1rem;
+        border-radius: 1rem;
+        background-color: #1d2c67;
+        color: white;
+        min-width: 4rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .container_modify {
+    button {
+      position: absolute;
+      top: 12rem;
+      padding: 1rem;
+      justify-self: center;
+      align-self: center;
+      z-index: 100;
+    }
+
+    .container_form {
+      top: 5rem;
+      right: 5.5rem;
+      z-index: 101;
+    }
+  }
+}
