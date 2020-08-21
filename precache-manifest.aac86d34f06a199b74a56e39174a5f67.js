@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1fecd442a196e1c1316baf308d845d47",
+    "revision": "04a49357a05562aae564161e730b822e",
     "url": "/fylo-data-storage-component-frontEndMentor/index.html"
   },
   {
-    "revision": "c33363f387aa8436698c",
-    "url": "/fylo-data-storage-component-frontEndMentor/static/css/main.0a3f35b1.chunk.css"
+    "revision": "4d15bb949a3b51d7de9f",
+    "url": "/fylo-data-storage-component-frontEndMentor/static/css/main.a14251fb.chunk.css"
   },
   {
-    "revision": "02184b279596b81ea3c8",
-    "url": "/fylo-data-storage-component-frontEndMentor/static/js/2.5250cb75.chunk.js"
+    "revision": "a1dbed5d45eaac46368e",
+    "url": "/fylo-data-storage-component-frontEndMentor/static/js/2.2dbec34c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/fylo-data-storage-component-frontEndMentor/static/js/2.5250cb75.chunk.js.LICENSE.txt"
+    "url": "/fylo-data-storage-component-frontEndMentor/static/js/2.2dbec34c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c33363f387aa8436698c",
-    "url": "/fylo-data-storage-component-frontEndMentor/static/js/main.f751b632.chunk.js"
+    "revision": "4d15bb949a3b51d7de9f",
+    "url": "/fylo-data-storage-component-frontEndMentor/static/js/main.b978df0f.chunk.js"
   },
   {
     "revision": "28f3d5ea95a0f05e25bf",

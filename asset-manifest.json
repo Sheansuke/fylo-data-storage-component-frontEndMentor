@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fylo-data-storage-component-frontEndMentor/static/css/main.0a3f35b1.chunk.css",
-    "main.js": "/fylo-data-storage-component-frontEndMentor/static/js/main.f751b632.chunk.js",
-    "main.js.map": "/fylo-data-storage-component-frontEndMentor/static/js/main.f751b632.chunk.js.map",
+    "main.css": "/fylo-data-storage-component-frontEndMentor/static/css/main.a14251fb.chunk.css",
+    "main.js": "/fylo-data-storage-component-frontEndMentor/static/js/main.b978df0f.chunk.js",
+    "main.js.map": "/fylo-data-storage-component-frontEndMentor/static/js/main.b978df0f.chunk.js.map",
     "runtime-main.js": "/fylo-data-storage-component-frontEndMentor/static/js/runtime-main.c7147d95.js",
     "runtime-main.js.map": "/fylo-data-storage-component-frontEndMentor/static/js/runtime-main.c7147d95.js.map",
-    "static/js/2.5250cb75.chunk.js": "/fylo-data-storage-component-frontEndMentor/static/js/2.5250cb75.chunk.js",
-    "static/js/2.5250cb75.chunk.js.map": "/fylo-data-storage-component-frontEndMentor/static/js/2.5250cb75.chunk.js.map",
+    "static/js/2.2dbec34c.chunk.js": "/fylo-data-storage-component-frontEndMentor/static/js/2.2dbec34c.chunk.js",
+    "static/js/2.2dbec34c.chunk.js.map": "/fylo-data-storage-component-frontEndMentor/static/js/2.2dbec34c.chunk.js.map",
     "index.html": "/fylo-data-storage-component-frontEndMentor/index.html",
-    "precache-manifest.735babf7b13758eb7394c92635f5ee3d.js": "/fylo-data-storage-component-frontEndMentor/precache-manifest.735babf7b13758eb7394c92635f5ee3d.js",
+    "precache-manifest.aac86d34f06a199b74a56e39174a5f67.js": "/fylo-data-storage-component-frontEndMentor/precache-manifest.aac86d34f06a199b74a56e39174a5f67.js",
     "service-worker.js": "/fylo-data-storage-component-frontEndMentor/service-worker.js",
-    "static/css/main.0a3f35b1.chunk.css.map": "/fylo-data-storage-component-frontEndMentor/static/css/main.0a3f35b1.chunk.css.map",
-    "static/js/2.5250cb75.chunk.js.LICENSE.txt": "/fylo-data-storage-component-frontEndMentor/static/js/2.5250cb75.chunk.js.LICENSE.txt",
+    "static/css/main.a14251fb.chunk.css.map": "/fylo-data-storage-component-frontEndMentor/static/css/main.a14251fb.chunk.css.map",
+    "static/js/2.2dbec34c.chunk.js.LICENSE.txt": "/fylo-data-storage-component-frontEndMentor/static/js/2.2dbec34c.chunk.js.LICENSE.txt",
     "static/media/bg-desktop.png": "/fylo-data-storage-component-frontEndMentor/static/media/bg-desktop.dba266ec.png",
     "static/media/Main.module.scss": "/fylo-data-storage-component-frontEndMentor/static/media/bg-mobile.03a2f478.png",
     "static/media/icon-document.svg": "/fylo-data-storage-component-frontEndMentor/static/media/icon-document.db85d937.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c7147d95.js",
-    "static/js/2.5250cb75.chunk.js",
-    "static/css/main.0a3f35b1.chunk.css",
-    "static/js/main.f751b632.chunk.js"
+    "static/js/2.2dbec34c.chunk.js",
+    "static/css/main.a14251fb.chunk.css",
+    "static/js/main.b978df0f.chunk.js"
   ]
 }
