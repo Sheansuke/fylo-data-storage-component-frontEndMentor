@@ -50,7 +50,7 @@ const App: React.FC<Props> = ({ usageGB, maxGB, setGbs }) => {
             <input
               type="number"
               name="maxGB"
-              min={maxGB * }
+              min={0}
               max={maxGB}
               value={inputMaxGB}
               onChange={(e: React.ChangeEvent<HTMLInputElement>): unknown =>
